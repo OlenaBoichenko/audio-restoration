@@ -327,7 +327,7 @@ function AIChatbot() {
                 className="flex-1 px-4 py-2 border-2 border-[#D4A574] bg-[#F5F1E8] text-[#3E2723] focus:ring-2 focus:ring-[#8B6F47] focus:border-transparent"
               />
               <button
-                onClick={handleSendMessage}
+                onClick={() => handleSendMessage()}
                 className="bg-[#8B6F47] text-[#F5F1E8] px-4 py-2 hover:bg-[#A0826D] transition"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
