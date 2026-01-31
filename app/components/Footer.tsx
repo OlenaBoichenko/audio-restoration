@@ -46,7 +46,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-[#5D4037] mt-8 pt-8 text-center text-[#D4A574]">
-          <p>&copy; 2025-2026 RestoreMedia. {t("All rights reserved. Your memories, our expertise.", "Все права защищены. Ваши воспоминания — наш профессионализм.")}</p>
+          <p>&copy; 2014-2026 RestoreMedia. {t("All rights reserved. Your memories, our expertise.", "Все права защищены. Ваши воспоминания — наш профессионализм.")}</p>
         </div>
       </div>
     </footer>
